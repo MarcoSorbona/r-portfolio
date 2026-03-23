@@ -1,6 +1,6 @@
 ---
 title: "Marco Sorbona – R Portfolio"
-subtitle: "Data Science with R Specialization (Duke University) & Public Health Projects"
+subtitle: "Data Science with R Specialization (Duke University)"
 author: "Marco Sorbona, PhD"
 date: "March 2026"
 format: 
