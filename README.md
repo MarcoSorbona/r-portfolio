@@ -11,8 +11,7 @@ Welcome to my R portfolio. This repository showcases projects completed during t
 **Course:** Data Visualisation and Transformation\
 **Description:** Exploratory analysis of Chicago taxi trips (2022). Investigated tipping behaviour by trip distance, company, and time of day.\
 **Skills:** `ggplot2`, `dplyr`, `tidyr`, `Quarto`\
-[🔗 View Report](https://marcoSorbona.github.io/r-portfolio/taxi-project/)\
-[📂 Repository](https://github.com/MarcoSorbona/r-portfolio/tree/main/taxi-project)
+[🔗 View Report](https://MarcoSorbona.github.io/r-portfolio/taxi_project.html)
 
 ### 2. (Future Project)
 

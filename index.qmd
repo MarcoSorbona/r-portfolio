@@ -14,43 +14,43 @@ format:
 
 Welcome to my R portfolio. This page showcases projects completed during the **Data Science with R Specialization** at Duke University.
 
----
+------------------------------------------------------------------------
 
 ## 📊 Featured Projects
 
 ### 1. Chicago Taxi Analysis
-**Course:** Data Visualisation and Transformation  
-**Description:** Exploratory analysis of Chicago taxi trips (2022). Investigated tipping behaviour by trip distance, taxi company, and time of day.  
-**Skills:** `ggplot2`, `dplyr`, `tidyr`, `Quarto`  
 
-[🔗 View Report](https://marcoSorbona.github.io/data-visualisation-transformation-project/)  
-[📂 Repository](https://github.com/MarcoSorbona/data-visualisation-transformation-project)
+**Course:** Data Visualisation and Transformation\
+**Description:** Exploratory analysis of Chicago taxi trips (2022). Investigated tipping behaviour by trip distance, taxi company, and time of day.\
+**Skills:** `ggplot2`, `dplyr`, `tidyr`, `Quarto`
 
----
+[🔗 View Report](https://MarcoSorbona.github.io/r-portfolio/taxi_project.html)
+
+------------------------------------------------------------------------
 
 ### 2. (Future Projects)
 
----
+------------------------------------------------------------------------
 
 ## 🛠️ Tools & Packages
 
-| Category | Packages |
-|----------|----------|
-| **Data wrangling** | `tidyverse`, `dplyr`, `tidyr` |
-| **Visualisation** | `ggplot2`, `plotly`, `leaflet`, `DT` |
-| **Reporting** | `Quarto`, `flexdashboard` |
-| **Statistics** | `effectsize`, `broom` |
+| Category           | Packages                             |
+|--------------------|--------------------------------------|
+| **Data wrangling** | `tidyverse`, `dplyr`, `tidyr`        |
+| **Visualisation**  | `ggplot2`, `plotly`, `leaflet`, `DT` |
+| **Reporting**      | `Quarto`, `flexdashboard`            |
+| **Statistics**     | `effectsize`, `broom`                |
 
----
+------------------------------------------------------------------------
 
 ## 📬 Contact
 
-**Marco Sorbona, PhD**  
-[LinkedIn](https://linkedin.com/in/marco-sorbona-phd) | [GitHub](https://github.com/MarcoSorbona)
+**Marco Sorbona, PhD**\
+[LinkedIn](https://linkedin.com/in/marco-sorbona-phd) \| [GitHub](https://github.com/MarcoSorbona)
 
----
+------------------------------------------------------------------------
 
 ## 📄 License
 
-**Code:** MIT  
+**Code:** MIT\
 **Data:** Open Government Licence v3.0 (for UK data); original sources for other datasets.

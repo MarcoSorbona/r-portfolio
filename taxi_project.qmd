@@ -1,9 +1,13 @@
 ---
-title: "Project"
+title: "Chicago Taxi Analysis"
 author: "Marco Sorbona, PhD"
-subtitle: "Investigation into Chicago taxis"
-echo: false
-bibliography: references.bib
+date: "March 2026"
+#bibliography: references.bib
+format: 
+  html: 
+    toc: true
+    theme: cosmo
+    code-fold: false
 editor_options: 
   chunk_output_type: console
 ---
