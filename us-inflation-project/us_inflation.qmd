@@ -1,0 +1,22 @@
+---
+title: "US Inflation"
+author: "Marco Sorbona, PhD"
+date: "March 2026"
+echo: false
+format: 
+  html: 
+    toc: true
+    theme: cosmo
+    code-fold: false
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+#| warning: false
+#| message: true
+library(tidyverse)
+library(tidymodels)
+library(scales)
+library(ggthemes)
+```
